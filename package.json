@@ -1,0 +1,18 @@
+{
+  "name": "koa-req-trace",
+  "version": "0.0.2",
+  "description": "req url trace",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+      "moment": "2.13.*"
+  },
+  "keywords": [
+    "request",
+    "trace"
+  ],
+  "author": "kelen",
+  "license": "MIT"
+}
